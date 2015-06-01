@@ -1,0 +1,1 @@
+This is the Android Implementation of the Computer Vision Research Project.
