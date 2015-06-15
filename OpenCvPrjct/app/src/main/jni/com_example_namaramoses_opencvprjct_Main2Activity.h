@@ -12,8 +12,6 @@ extern "C" {
  * Method:    hello
  * Signature: ()Ljava/lang/String;
  */
-JNIEXPORT jstring JNICALL Java_com_example_namaramoses_opencvprjct_Main2Activity_hello
-  (JNIEnv *, jobject);
 
 #ifdef __cplusplus
 }

@@ -11,7 +11,7 @@ OPENCV_LIB_TYPE:=SHARED
 include ${OPENCVROOT}/sdk/native/jni/OpenCV.mk
 
 
-LOCAL_SRC_FILES := main.c
+LOCAL_SRC_FILES := main.cpp
 LOCAL_LDLIBS += -llog
 LOCAL_MODULE := hello
 
