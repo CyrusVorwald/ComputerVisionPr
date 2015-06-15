@@ -28,8 +28,6 @@ android {
 //    }
     // add end
 
-
-
     buildTypes {
         release {
             minifyEnabled false
