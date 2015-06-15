@@ -4,7 +4,7 @@ include $(CLEAR_VARS)
 
 
 #opencv
-OPENCVROOT:= /Volumes/hujiawei/Users/hujiawei/Android/opencv_sdk
+OPENCVROOT:= /Users/ahmadsalem/Documents/ElkaDrone/OpenCV-android-sdk
 OPENCV_CAMERA_MODULES:=on
 OPENCV_INSTALL_MODULES:=on
 OPENCV_LIB_TYPE:=SHARED
