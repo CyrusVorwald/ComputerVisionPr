@@ -47,7 +47,7 @@ public class Main2Activity extends Activity implements CvCameraViewListener2 {
                     Log.i(TAG, "OpenCV loaded successfully");
 
                     // Load native library after(!) OpenCV initialization
-                    System.loadLibrary("hello");
+                    System.loadLibrary("features");
 
                     mOpenCvCameraView.enableView();
                 } break;
@@ -162,6 +162,7 @@ public class Main2Activity extends Activity implements CvCameraViewListener2 {
 
         return mRgba;
     }
+
     public native void FindFeatures(long matAddrGr, long matAddrRgba);
 
 }

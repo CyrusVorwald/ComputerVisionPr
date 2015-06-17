@@ -8,7 +8,6 @@
 using namespace std;
 using namespace cv;
 
-JNIEXPORT void JNICALL Java_com_example_namaramoses_opencvprjct_Main2Activity_FindFeatures(JNIEnv*, jobject, jlong addrGray, jlong addrRgba);
 
 JNIEXPORT void JNICALL Java_com_example_namaramoses_opencvprjct_Main2Activity_FindFeatures(JNIEnv*, jobject, jlong addrGray, jlong addrRgba)
 {

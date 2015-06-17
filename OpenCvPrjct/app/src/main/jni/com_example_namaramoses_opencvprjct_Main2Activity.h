@@ -7,11 +7,21 @@
 #ifdef __cplusplus
 extern "C" {
 #endif
+#undef com_example_namaramoses_opencvprjct_Main2Activity_VIEW_MODE_RGBA
+#define com_example_namaramoses_opencvprjct_Main2Activity_VIEW_MODE_RGBA 0L
+#undef com_example_namaramoses_opencvprjct_Main2Activity_VIEW_MODE_GRAY
+#define com_example_namaramoses_opencvprjct_Main2Activity_VIEW_MODE_GRAY 1L
+#undef com_example_namaramoses_opencvprjct_Main2Activity_VIEW_MODE_CANNY
+#define com_example_namaramoses_opencvprjct_Main2Activity_VIEW_MODE_CANNY 2L
+#undef com_example_namaramoses_opencvprjct_Main2Activity_VIEW_MODE_FEATURES
+#define com_example_namaramoses_opencvprjct_Main2Activity_VIEW_MODE_FEATURES 5L
 /*
  * Class:     com_example_namaramoses_opencvprjct_Main2Activity
- * Method:    hello
- * Signature: ()Ljava/lang/String;
+ * Method:    FindFeatures
+ * Signature: (JJ)V
  */
+JNIEXPORT void JNICALL Java_com_example_namaramoses_opencvprjct_Main2Activity_FindFeatures
+  (JNIEnv *, jobject, jlong, jlong);
 
 #ifdef __cplusplus
 }

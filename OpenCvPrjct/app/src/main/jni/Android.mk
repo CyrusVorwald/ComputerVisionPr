@@ -13,6 +13,6 @@ include ${OPENCVROOT}/sdk/native/jni/OpenCV.mk
 
 LOCAL_SRC_FILES := main.cpp
 LOCAL_LDLIBS += -llog
-LOCAL_MODULE := hello
+LOCAL_MODULE := features
 
 include $(BUILD_SHARED_LIBRARY)
