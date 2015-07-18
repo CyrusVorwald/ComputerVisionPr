@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Cyrus\AndroidStudioProjects\ComputerVisionPr\OpenCvPrjct\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\Cyrus\AndroidStudioProjects\ComputerVisionPr\OpenCvPrjct\app\build\intermediates\pre-dexed\debug\classes-d892eb95a71d9d58b8613e1cde72cb14baa72a78.jar" />
+    </item>
+    <item
+        jar="C:\Users\Cyrus\AndroidStudioProjects\ComputerVisionPr\OpenCvPrjct\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\Cyrus\AndroidStudioProjects\ComputerVisionPr\OpenCvPrjct\app\build\intermediates\pre-dexed\debug\classes-43fafe17953e0896cf3b151c3c217177fd7e0a30.jar" />
+    </item>
+    <item
+        jar="C:\Java\asdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\Cyrus\AndroidStudioProjects\ComputerVisionPr\OpenCvPrjct\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-c2ffa53145824bdb98c68d7a6831c857f06c46b5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Cyrus\AndroidStudioProjects\ComputerVisionPr\OpenCvPrjct\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\Cyrus\AndroidStudioProjects\ComputerVisionPr\OpenCvPrjct\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-7e5b360e2c253d13677602698b6f21c14a52015d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Cyrus\AndroidStudioProjects\ComputerVisionPr\OpenCvPrjct\app\build\intermediates\exploded-aar\OpenCvPrjct\openCVLibrary300rc1\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1fca955758941cd3a7b0c85228440ddb01ee001c">
+        <dex dex="C:\Users\Cyrus\AndroidStudioProjects\ComputerVisionPr\OpenCvPrjct\app\build\intermediates\pre-dexed\debug\classes-67a0e9fc78c470a334070de49e9a7f6d628ba06b.jar" />
+    </item>
+
+</items>
